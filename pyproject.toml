@@ -1,0 +1,9 @@
+[project]
+name = "agent-auth-proxy"
+version = "0.1.0"
+description = "Central credential proxy for AI agents"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
