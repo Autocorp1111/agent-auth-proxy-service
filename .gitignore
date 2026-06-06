@@ -42,6 +42,4 @@ htmlcov/
 # Project specific
 CLAUDE_STARTER_PROMPT.md
 FILES_CREATED.md
-migrations/versions/*.py
-!migrations/versions/001_initial_tables.py
 scripts/
